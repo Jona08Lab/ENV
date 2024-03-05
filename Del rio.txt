@@ -1,0 +1,910 @@
+                   </div>
+                  </div>
+                 </div>
+                 <div class="elementor-service-item">
+                  <div class="elementor-service-item-inner">
+                   <div class="elementor-service-image">
+                    <div class="image-inner">
+                     <img alt="" class="attachment-medium_large size-medium_large wp-image-5639" decoding="async" height="450" loading="lazy" sizes="(max-width: 410px) 100vw, 410px" src="https://delriosa.com/wp-content/uploads/2023/05/5.jpg" srcset="https://delriosa.com/wp-content/uploads/2023/05/5.jpg 410w, https://delriosa.com/wp-content/uploads/2023/05/5-273x300.jpg 273w" width="410"/>
+                    </div>
+                   </div>
+                   <div class="overlay flex-middle">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-smile-beam">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/web-development/">
+                       Práctico
+                      </a>
+                     </h3>
+                    </div>
+                   </div>
+                   <div class="elementor-item-box">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-smile-beam">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/web-development/">
+                       Práctico
+                      </a>
+                     </h3>
+                     <div class="elementor-service-content">
+                      Expertise in a IT consultancy for the many companies, for their different working areas.
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="elementor-service-item">
+                  <div class="elementor-service-item-inner">
+                   <div class="elementor-service-image">
+                    <div class="image-inner">
+                     <img alt="" class="attachment-medium_large size-medium_large wp-image-5637" decoding="async" height="450" loading="lazy" sizes="(max-width: 410px) 100vw, 410px" src="https://delriosa.com/wp-content/uploads/2023/05/3.jpg" srcset="https://delriosa.com/wp-content/uploads/2023/05/3.jpg 410w, https://delriosa.com/wp-content/uploads/2023/05/3-273x300.jpg 273w" width="410"/>
+                    </div>
+                   </div>
+                   <div class="overlay flex-middle">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-user-shield">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/it-consultancy/">
+                       Seguro
+                      </a>
+                     </h3>
+                    </div>
+                   </div>
+                   <div class="elementor-item-box">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-user-shield">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/it-consultancy/">
+                       Seguro
+                      </a>
+                     </h3>
+                     <div class="elementor-service-content">
+                      Expertise in a IT consultancy for the many companies, for their different working areas.
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="elementor-service-item">
+                  <div class="elementor-service-item-inner">
+                   <div class="elementor-service-image">
+                    <div class="image-inner">
+                     <img alt="" class="attachment-medium_large size-medium_large wp-image-5636" decoding="async" height="450" loading="lazy" sizes="(max-width: 410px) 100vw, 410px" src="https://delriosa.com/wp-content/uploads/2023/05/2.jpg" srcset="https://delriosa.com/wp-content/uploads/2023/05/2.jpg 410w, https://delriosa.com/wp-content/uploads/2023/05/2-273x300.jpg 273w" width="410"/>
+                    </div>
+                   </div>
+                   <div class="overlay flex-middle">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-hands-wash">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/it-consultancy/">
+                       Limpio
+                      </a>
+                     </h3>
+                    </div>
+                   </div>
+                   <div class="elementor-item-box">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-hands-wash">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/it-consultancy/">
+                       Limpio
+                      </a>
+                     </h3>
+                     <div class="elementor-service-content">
+                      Expertise in a IT consultancy for the many companies, for their different working areas.
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div class="elementor-service-item">
+                  <div class="elementor-service-item-inner">
+                   <div class="elementor-service-image">
+                    <div class="image-inner">
+                     <img alt="" class="attachment-medium_large size-medium_large wp-image-7393" decoding="async" height="450" loading="lazy" sizes="(max-width: 410px) 100vw, 410px" src="https://delriosa.com/wp-content/uploads/2023/07/66.jpg" srcset="https://delriosa.com/wp-content/uploads/2023/07/66.jpg 410w, https://delriosa.com/wp-content/uploads/2023/07/66-273x300.jpg 273w" width="410"/>
+                    </div>
+                   </div>
+                   <div class="overlay flex-middle">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-hand-holding-heart">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/it-consultancy/">
+                       Personal agradable
+                      </a>
+                     </h3>
+                    </div>
+                   </div>
+                   <div class="elementor-item-box">
+                    <div class="elementor-service-box-content">
+                     <div class="elementor-icon">
+                      <i aria-hidden="true" class="fas fa-hand-holding-heart">
+                      </i>
+                     </div>
+                     <h3 class="elementor-service-name">
+                      <a href="http://localhost/wordpress/editech/services/it-consultancy/">
+                       Personal agradable
+                      </a>
+                     </h3>
+                     <div class="elementor-service-content">
+                      Expertise in a IT consultancy for the many companies, for their different working areas.
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </section>
+         <section class="elementor-section elementor-top-section elementor-element elementor-element-c470110 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="c470110" data-settings='{"stretch_section":"section-stretched"}'>
+          <div class="elementor-container elementor-column-gap-no">
+           <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-08b8cc7" data-element_type="column" data-id="08b8cc7" data-settings='{"background_background":"classic"}'>
+            <div class="elementor-widget-wrap elementor-element-populated">
+             <div class="elementor-element elementor-element-2adb05c elementor-position-above elementor-position-center elementor-mobile-position-center elementor-widget elementor-widget-heading" data-element_type="widget" data-id="2adb05c" data-widget_type="heading.default">
+              <div class="elementor-widget-container">
+               <div class="elementor-heading-wrapper">
+                <div class="elementor-heading-wrapper-inner">
+                 <h2 class="elementor-heading-title elementor-size-default">
+                  Paga tus servicios
+                 </h2>
+                 <span class="sub-title">
+                  Ahorra filas y
+                 </span>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </section>
+         <section class="elementor-section elementor-top-section elementor-element elementor-element-b496f40 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-element_type="section" data-id="b496f40" data-settings='{"animation":"fadeInUp"}'>
+          <div class="elementor-container elementor-column-gap-default">
+           <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ceb91aa" data-element_type="column" data-id="ceb91aa">
+            <div class="elementor-widget-wrap">
+            </div>
+           </div>
+           <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-946b7e3" data-element_type="column" data-id="946b7e3">
+            <div class="elementor-widget-wrap elementor-element-populated">
+             <div class="elementor-element elementor-element-d2e17c1 elementor-arrows-position-outside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-element_type="widget" data-id="d2e17c1" data-settings='{"slides_to_show":"5","slides_to_show_mobile":"1","lazyload":"yes","autoplay_speed":1000,"speed":300,"image_spacing_custom":{"unit":"px","size":62,"sizes":[]},"navigation":"both","autoplay":"yes","pause_on_hover":"yes","pause_on_interaction":"yes","infinite":"yes","image_spacing_custom_laptop":{"unit":"px","size":"","sizes":[]},"image_spacing_custom_tablet_extra":{"unit":"px","size":"","sizes":[]},"image_spacing_custom_tablet":{"unit":"px","size":"","sizes":[]},"image_spacing_custom_mobile_extra":{"unit":"px","size":"","sizes":[]}}' data-widget_type="image-carousel.default">
+              <div class="elementor-widget-container">
+               <style>
+                /*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}
+               </style>
+               <div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+                <div aria-live="off" class="elementor-image-carousel swiper-wrapper">
+                 <div aria-label="1 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="TOTAL" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/TOTAL.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="2 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="sky" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/sky.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="3 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="PAGOS" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/PAGOS.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="4 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="IZZI" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/IZZI.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="5 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="GAS" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/GAS.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="6 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="dish" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/dish.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="7 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="axtel" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/axtel.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="8 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="CFE" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/CFE.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="9 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="JMAS" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/JMAS.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                 <div aria-label="10 de 10" aria-roledescription="slide" class="swiper-slide" role="group">
+                  <figure class="swiper-slide-inner">
+                   <img alt="telmex" class="swiper-slide-image swiper-lazy" data-src="https://delriosa.com/wp-content/uploads/2023/05/telmex.png"/>
+                   <div class="swiper-lazy-preloader">
+                   </div>
+                  </figure>
+                 </div>
+                </div>
+                <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+                 <i aria-hidden="true" class="eicon-chevron-left">
+                 </i>
+                </div>
+                <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+                 <i aria-hidden="true" class="eicon-chevron-right">
+                 </i>
+                </div>
+                <div class="swiper-pagination">
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8db9c91" data-element_type="column" data-id="8db9c91">
+            <div class="elementor-widget-wrap">
+            </div>
+           </div>
+          </div>
+         </section>
+         <section class="elementor-section elementor-top-section elementor-element elementor-element-f6eb4f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="f6eb4f4">
+          <div class="elementor-container elementor-column-gap-default">
+           <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9f5f500" data-element_type="column" data-id="9f5f500">
+            <div class="elementor-widget-wrap">
+            </div>
+           </div>
+          </div>
+         </section>
+        </div>
+       </main>
+       <!-- #main -->
+      </div>
+      <!-- #primary -->
+     </div>
+     <!-- #content -->
+    </div>
+    <!-- .site-content-contain -->
+    <footer class="site-footer" id="colophon">
+     <div class="wrap">
+      <div class="container">
+       <div class="elementor elementor-272" data-elementor-id="272" data-elementor-post-type="footer" data-elementor-type="wp-post">
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-dbdbf46 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-laptop elementor-hidden-tablet_extra elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="dbdbf46">
+         <div class="elementor-container elementor-column-gap-default">
+          <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b7d4b41" data-element_type="column" data-id="b7d4b41" data-settings='{"background_background":"classic"}'>
+           <div class="elementor-widget-wrap elementor-element-populated">
+            <div class="elementor-element elementor-element-0783009 elementor-widget elementor-widget-image" data-element_type="widget" data-id="0783009" data-widget_type="image.default">
+             <div class="elementor-widget-container">
+              <img alt="" class="attachment-full size-full wp-image-98" height="929" loading="lazy" sizes="(max-width: 2230px) 100vw, 2230px" src="https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2.png" srcset="https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2.png 2230w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-300x125.png 300w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-1024x427.png 1024w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-768x320.png 768w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-1536x640.png 1536w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-2048x853.png 2048w" width="2230"/>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-d29f0ad" data-element_type="column" data-id="d29f0ad">
+           <div class="elementor-widget-wrap elementor-element-populated">
+            <div class="elementor-element elementor-element-4a27cda elementor-mobile-position-center elementor-mobile_extra-position-center elementor-position-below elementor-widget elementor-widget-heading" data-element_type="widget" data-id="4a27cda" data-widget_type="heading.default">
+             <div class="elementor-widget-container">
+              <style>
+               /*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
+              </style>
+              <div class="elementor-heading-wrapper">
+               <div class="elementor-heading-wrapper-inner">
+                <h4 class="elementor-heading-title elementor-size-default">
+                 contacto
+                </h4>
+                <span class="sub-title">
+                 656 686-2260
+                 <br/>
+                 digital@grupodelavega.com
+                </span>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </section>
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-e139f69 elementor-section-stretched elementor-hidden-mobile_extra elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="e139f69" data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+         <div class="elementor-container elementor-column-gap-no">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-402ecfc" data-element_type="column" data-id="402ecfc">
+           <div class="elementor-widget-wrap elementor-element-populated">
+            <section class="elementor-section elementor-inner-section elementor-element elementor-element-e0ca5da elementor-section-content-middle elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="e0ca5da" data-settings='{"background_background":"classic"}'>
+             <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-64fae3f bg-primary" data-element_type="column" data-id="64fae3f">
+               <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-dd52fd7 elementor-widget elementor-widget-image" data-element_type="widget" data-id="dd52fd7" data-widget_type="image.default">
+                 <div class="elementor-widget-container">
+                  <img alt="" class="attachment-full size-full wp-image-98" height="929" loading="lazy" sizes="(max-width: 2230px) 100vw, 2230px" src="https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2.png" srcset="https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2.png 2230w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-300x125.png 300w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-1024x427.png 1024w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-768x320.png 768w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-1536x640.png 1536w, https://delriosa.com/wp-content/uploads/2023/05/Logo_DR_QTT_Bco_1Tinta2-2048x853.png 2048w" width="2230"/>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2111d91" data-element_type="column" data-id="2111d91">      
+               <div class="elementor-widget-wrap">
+               </div>
+              </div>
+              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7889a01" data-element_type="column" data-id="7889a01">      
+               <div class="elementor-widget-wrap elementor-element-populated">
+                <div class="elementor-element elementor-element-e3a279b elementor-mobile-position-center elementor-position-center elementor-position-below elementor-widget elementor-widget-heading" data-element_type="widget" data-id="e3a279b" data-widget_type="heading.default">
+                 <div class="elementor-widget-container">
+                  <div class="elementor-heading-wrapper">
+                   <div class="elementor-heading-wrapper-inner">
+                    <h4 class="elementor-heading-title elementor-size-default">
+                     contacto
+                    </h4>
+                    <span class="sub-title">
+                     656 686-2260
+                     <br/>
+                     digital@grupodelavega.com
+                    </span>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="elementor-element elementor-element-e2d3eb4 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="e2d3eb4" data-widget_type="text-editor.default">
+                 <div class="elementor-widget-container">
+                  <style>
+                   /*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed 
+.elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}
+                  </style>
+                  <div class="elementor-text-editor elementor-clearfix">
+                   info@example.com
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f69980" data-element_type="column" data-id="1f69980">      
+               <div class="elementor-widget-wrap">
+               </div>
+              </div>
+             </div>
+            </section>
+           </div>
+          </div>
+         </div>
+        </section>
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-5179d35 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="5179d35" data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+         <div class="elementor-container elementor-column-gap-no">
+          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b875c38" data-element_type="column" data-id="b875c38">
+           <div class="elementor-widget-wrap elementor-element-populated">
+            <div class="elementor-element elementor-element-5282b16 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-element_type="widget" data-id="5282b16" data-widget_type="divider.default">
+             <div class="elementor-widget-container">
+              <style>
+               /*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-block-end:0;flex-grow:1;border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider--element-align-start .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-start .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-start .elementor-divider__element{margin-inline-start:0}.elementor-widget-divider--element-align-end .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-end .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-end .elementor-divider__element{margin-inline-end:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-block-start:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}
+              </style>
+              <div class="elementor-divider">
+               <span class="elementor-divider-separator">
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </section>
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-db52a71 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-element_type="section" data-id="db52a71" data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+         <div class="elementor-container elementor-column-gap-no">
+          <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d2583c1" data-element_type="column" data-id="d2583c1">
+           <div class="elementor-widget-wrap elementor-element-populated">
+            <div class="elementor-element elementor-element-cf7ebc4 elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="cf7ebc4" data-widget_type="text-editor.default">
+             <div class="elementor-widget-container">
+              <div class="elementor-text-editor elementor-clearfix">
+               <p>
+                Copyright © 2023
+                <strong>
+                 DelRio
+                </strong>
+                . Todos los derechos reservados.
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1d54022" data-element_type="column" data-id="1d54022">
+           <div class="elementor-widget-wrap elementor-element-populated">
+            <div class="elementor-element elementor-element-03f30dd elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="03f30dd" data-widget_type="text-editor.default">
+             <div class="elementor-widget-container">
+              <div class="elementor-text-editor elementor-clearfix">
+               <p>
+                <strong>
+                 <span style="color: #3366ff;">
+                  <a href="https://delriosa.com/politica-de-privacidad/" style="color: #3366ff;">
+                   Politica de privacidad
+                  </a>
+                 </span>
+                </strong>
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </section>
+       </div>
+      </div>
+     </div>
+    </footer>
+    <!-- #colophon -->
+   </div>
+   <!-- #page -->
+   <nav class="opal-menu-canvas mp-menu" id="opal-canvas-menu">
+    <div class="mainmenu">
+     <ul class="offcanvas-menu menu menu-canvas-default" id="offcanvas-menu">
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5377 current_page_item menu-item-6080">
+       <a aria-current="page" href="https://delriosa.com/">
+        INICIO
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6632">
+       <a href="https://delriosa.com/ofertas/">
+        OFERTAS
+        <i class="sub-arrow">
+        </i>
+       </a>
+       <ul class="sub-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7580">
+         <a href="https://delriosa.com/ofertas-cd-juarez/#">
+          CD JUÁREZ
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7581">
+         <a href="https://delriosa.com/ofertas-2/">
+          CHIHUAHUA
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7582">
+         <a href="https://delriosa.com/ofertas-2/">
+          DELICIAS
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7583">
+         <a href="https://delriosa.com/ofertas-2/">
+          CUAUHTÉMOC
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7867">
+         <a href="https://delriosa.com/ofertas-3/">
+          VILLA AHUMADA
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7584">
+         <a href="https://delriosa.com/ofertas-3/">
+          NUEVO CASAS GRANDES
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7585">
+         <a href="https://delriosa.com/ofertas-2/">
+          ASCENSIÓN
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6053">
+       <a href="https://delriosa.com/nosotros/">
+        NOSOTROS
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6090">
+       <a href="https://delriosa.com/ubicaciones/">
+        UBICACIONES
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77">
+       <a href="http://adfsa.com.mx/facturacion.htm">
+        FACTURACIÓN
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7679">
+       <a href="https://delriosa.com/contact/">
+        CONTACTO
+       </a>
+      </li>
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7680">
+       <a href="http://s1.adfsa.com.mx/heinekenmembers/">
+        HEINEKEN MEMBERS
+       </a>
+      </li>
+     </ul>
+    </div>
+   </nav>
+  </div>
+  <!-- end.opal-wrapper-->
+  <script>
+   window.RS_MODULES = window.RS_MODULES || {};
+                        window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+                        window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+                        window.RS_MODULES.defered = true;
+                        window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+                        window.RS_MODULES.type = 'compiled';
+  </script>
+  <div class="msgmsg-box-wpcp hideme" id="wpcp-error-message">
+   <span>
+    error:
+   </span>
+   ¡¡Contenido Protegido!!
+  </div>
+  <script>
+   var timeout_result;
+        function show_wpcp_message(smessage)
+        {
+                if (smessage !== "")
+                        {
+                        var smessage_text = '<span>Alert: </span>'+smessage;
+                        document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+                        document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+                        clearTimeout(timeout_result);
+                        timeout_result = setTimeout(hide_message, 3000);
+                        }
+        }
+        function hide_message()
+        {
+                document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+        }
+  </script>
+  <style>
+   @media print {
+        body * {display: none !important;}
+                body:after {
+                content: "No tiene permiso para imprimir una vista previa de esta p&aacute;gina, gracias..."; }
+        }
+  </style>
+  <style>
+   #wpcp-error-message {
+            direction: ltr;
+            text-align: center;
+            transition: opacity 900ms ease 0s;
+            z-index: 99999999;
+        }
+        .hideme {
+        opacity:0;
+        visibility: hidden;
+        }
+        .showme {
+        opacity:1;
+        visibility: visible;
+        }
+        .msgmsg-box-wpcp {
+                border:1px solid #f5aca6;
+                border-radius: 10px;
+                color: #555;
+                font-family: Tahoma;
+                font-size: 11px;
+                margin: 10px;
+                padding: 10px 36px;
+                position: fixed;
+                width: 255px;
+                top: 50%;
+                left: 50%;
+                margin-top: -10px;
+                margin-left: -130px;
+                -webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+                -moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+                box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+        }
+        .msgmsg-box-wpcp span {
+                font-weight:bold;
+                text-transform:uppercase;
+        }
+                .warning-wpcp {
+                background:#ffecec url('https://delriosa.com/wp-content/plugins/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+        }
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Poppins:800%7CRoboto:400&amp;display=swap" media="all" property="stylesheet" rel="stylesheet"/>
+  <script>
+   if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes 
+after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+  </script>
+  <link as="font" crossorigin="anonymous" href="https://delriosa.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888" id="rs-icon-set-revicon-woff" media="all" rel="preload" type="font/woff"/>
+  <link href="https://delriosa.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-advanced-button.css?ver=6.15.5" id="ep-advanced-button-css" media="all" rel="stylesheet"/>
+  <link href="https://delriosa.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-fancy-icons.css?ver=6.15.5" id="ep-fancy-icons-css" media="all" rel="stylesheet"/>       
+  <link href="https://delriosa.com/wp-content/plugins/editech-core/assets/css/magnific-popup.css?ver=6.4.3" id="magnific-popup-css" media="all" rel="stylesheet"/>
+  <link href="https://delriosa.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.19.2" id="e-animations-css" media="all" rel="stylesheet"/>
+  <link href="https://delriosa.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.8" id="rs-plugin-settings-css" media="all" rel="stylesheet"/>
+  <style id="rs-plugin-settings-inline-css">
+   #rev_slider_8_1_wrapper .hesperiden.tparrows{cursor:pointer;background:rgba(0,0,0,0.5);width:40px;height:40px;position:absolute;display:block;z-index:1000;  border-radius:50%}#rev_slider_8_1_wrapper .hesperiden.tparrows.rs-touchhover{background:#000000}#rev_slider_8_1_wrapper .hesperiden.tparrows:before{font-family:'revicons';font-size:20px;color:#ffffff;display:block;line-height:40px;text-align:center}#rev_slider_8_1_wrapper .hesperiden.tparrows.tp-leftarrow:before{content:'\e82c';  margin-left:-3px}#rev_slider_8_1_wrapper .hesperiden.tparrows.tp-rightarrow:before{content:'\e82d';  margin-right:-3px}
+  </style>
+  <script id="tweenmax-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/libs/TweenMax.min.js?ver=1.0.7">
+  </script>
+  <script id="tooltipster-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/libs/tooltipster.bundle.min.js?ver=1.0.7">
+  </script>
+  <script id="smartmenus-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/libs/jquery.smartmenus.min.js?ver=1.0.7">
+  </script>
+  <script id="parallaxmouse-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/libs/jquery-parallax.js?ver=1.0.7">
+  </script>
+  <script id="ht_ctc_app_js-js-extra">
+   /* <![CDATA[ */
+var ht_ctc_chat_var = {"number":"5216561678841","pre_filled":"","dis_m":"hide","dis_d":"hide","css":"display: none; cursor: pointer; z-index: 99999999;","pos_d":"position: fixed; 
+bottom: 15px; right: 15px;","pos_m":"position: fixed; bottom: 15px; right: 15px;","schedule":"no","se":"150","ani":"no-animations","url_target_d":"_blank","ga":"yes","fb":"yes","display":"no"};
+/* ]]> */
+  </script>
+  <script id="ht_ctc_app_js-js" src="https://delriosa.com/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=3.29.1">
+  </script>
+  <script id="opal-megamenu-frontend-js" src="https://delriosa.com/wp-content/plugins/editech-core/inc/vendors/opal-megamenu-for-elementor/assets/js/frontend.js?ver=6.4.3">       
+  </script>
+  <script async="" defer="" id="tp-tools-js" src="https://delriosa.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.8">
+  </script>
+  <script async="" defer="" id="revmin-js" src="https://delriosa.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.8">
+  </script>
+  <script id="editech-theme-js-js-extra">
+   /* <![CDATA[ */
+var osfAjax = {"ajaxurl":"https:\/\/delriosa.com\/wp-admin\/admin-ajax.php"};
+var editechJS = {"quote":"<i class=\"fa-quote-right\"><\/i>","smoothCallback":"","expand":"Expand child menu","collapse":"Collapse child menu","icon":"<i class=\"fa fa-angle-down\"><\/i>"};
+/* ]]> */
+  </script>
+  <script id="editech-theme-js-js" src="https://delriosa.com/wp-content/themes/editech/assets/js/theme.js?ver=1.0">
+  </script>
+  <script id="underscore-js" src="https://delriosa.com/wp-includes/js/underscore.min.js?ver=1.13.4">
+  </script>
+  <script id="wp-util-js-extra">
+   /* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+  </script>
+  <script id="wp-util-js" src="https://delriosa.com/wp-includes/js/wp-util.min.js?ver=6.4.3">
+  </script>
+  <script id="editech-theme-sticky-layout-js-js" src="https://delriosa.com/wp-content/themes/editech/assets/js/sticky-layout.js?ver=6.4.3">
+  </script>
+  <script id="pushmenu-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/libs/mlpushmenu.js?ver=1.0.7">
+  </script>
+  <script id="pushmenu-classie-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/libs/classie.js?ver=1.0.7">
+  </script>
+  <script id="editech-navigation-js" src="https://delriosa.com/wp-content/themes/editech/assets/js/navigation.js?ver=1.0">
+  </script>
+  <script id="magnific-popup-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/libs/jquery.magnific-popup.min.js?ver=6.4.3">
+  </script>
+  <script id="bdt-uikit-js-extra">
+   /* <![CDATA[ */
+var element_pack_ajax_login_config = {"ajaxurl":"https:\/\/delriosa.com\/wp-admin\/admin-ajax.php","language":"es","loadingmessage":"Sending user info, please wait...","unknownerror":"Unknown error, make sure access is correct!"};
+var ElementPackConfig = {"ajaxurl":"https:\/\/delriosa.com\/wp-admin\/admin-ajax.php","nonce":"096f55d015","data_table":{"language":{"lengthMenu":"Show _MENU_ Entries","info":"Showing _START_ to _END_ of _TOTAL_ entries","search":"Search :","sZeroRecords":"No matching records found","paginate":{"previous":"Previous","next":"Next"}}},"contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"mailchimp":{"subscribing":"Subscribing you please wait..."},"search":{"more_result":"More Results","search_result":"SEARCH RESULT","not_found":"not found"},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+/* ]]> */
+  </script>
+  <script id="bdt-uikit-js" src="https://delriosa.com/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.15.1">
+  </script>
+  <script id="elementor-webpack-runtime-js" src="https://delriosa.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.2">
+  </script>
+  <script id="elementor-frontend-modules-js" src="https://delriosa.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.2">
+  </script>
+  <script id="elementor-waypoints-js" src="https://delriosa.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2">
+  </script>
+  <script id="jquery-ui-core-js" src="https://delriosa.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2">
+  </script>
+  <script id="elementor-frontend-js-before">
+   /* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":true},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":true},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},   
+"version":"3.19.2","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"theme_builder_v2":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/delriosa.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_mobile_extra","viewport_tablet","viewport_tablet_extra","viewport_laptop"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":5377,"title":"Del%20Rio%20%E2%80%93%20El%20d%C3%ADa%20esta%20para%E2%80%A6","excerpt":"","featuredImage":false}};
+/* ]]> */
+  </script>
+  <script id="elementor-frontend-js" src="https://delriosa.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.2">
+  </script>
+  <script id="element-pack-helper-js" src="https://delriosa.com/wp-content/plugins/bdthemes-element-pack/assets/js/common/helper.min.js?ver=6.15.5">
+  </script>
+  <script id="elementor-pro-webpack-runtime-js" src="https://delriosa.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.14.0">
+  </script>
+  <script id="wp-polyfill-inert-js" src="https://delriosa.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2">
+  </script>
+  <script id="regenerator-runtime-js" src="https://delriosa.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0">
+  </script>
+  <script id="wp-polyfill-js" src="https://delriosa.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0">
+  </script>
+  <script id="wp-hooks-js" src="https://delriosa.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1">
+  </script>
+  <script id="wp-i18n-js" src="https://delriosa.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef">
+  </script>
+  <script id="wp-i18n-js-after">
+   /* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+  </script>
+  <script id="elementor-pro-frontend-js-before">
+   /* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/delriosa.com\/wp-admin\/admin-ajax.php","nonce":"514799369e","urls":{"assets":"https:\/\/delriosa.com\/wp-content\/plugins\/pro-elements\/assets\/","rest":"https:\/\/delriosa.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"facebook_sdk":{"lang":"es_ES","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/delriosa.com\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};
+/* ]]> */
+  </script>
+  <script id="elementor-pro-frontend-js" src="https://delriosa.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.14.0">
+  </script>
+  <script id="pro-elements-handlers-js" src="https://delriosa.com/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.14.0">
+  </script>
+  <script id="e-sticky-js" src="https://delriosa.com/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.14.0">
+  </script>
+  <script id="wpforms-elementor-js-extra">
+   /* <![CDATA[ */
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+/* ]]> */
+  </script>
+  <script id="wpforms-elementor-js" src="https://delriosa.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.1.3">
+  </script>
+  <script id="opal-elementor-frontend-js" src="https://delriosa.com/wp-content/plugins/editech-core/assets/js/elementor/frontend.js?ver=6.4.3">
+  </script>
+  <script id="rs-initialisation-scripts">
+   var  tpj = jQuery;
+
+                var     revapi8;
+
+                if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+                if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+                RS_MODULES.modules["revslider81"] = {once: RS_MODULES.modules["revslider81"]!==undefined ? RS_MODULES.modules["revslider81"].once : undefined, init:function() {   
+                        window.revapi8 = window.revapi8===undefined || window.revapi8===null || window.revapi8.length===0  ? document.getElementById("rev_slider_8_1") : window.revapi8;
+                        if(window.revapi8 === null || window.revapi8 === undefined || window.revapi8.length==0) { window.revapi8initTry = window.revapi8initTry ===undefined ? 0 : 
+window.revapi8initTry+1; if (window.revapi8initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider81"].init()}); return;}
+                        window.revapi8 = jQuery(window.revapi8);
+                        if(window.revapi8.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_8_1"); return;}
+                        revapi8.revolutionInit({
+                                        revapi:"revapi8",
+                                        DPR:"dpr",
+                                        sliderLayout:"fullwidth",
+                                        visibilityLevels:"1240,1240,1240,480",
+                                        gridwidth:"1240,1240,1240,480",
+                                        gridheight:"800,800,800,400",
+                                        lazyType:"smart",
+                                        forceOverflow:true,
+                                        maxHeight:"0px",
+                                        perspective:600,
+                                        perspectiveType:"global",
+                                        editorheight:"800,768,960,400",
+                                        responsiveLevels:"1240,1240,1240,480",
+                                        progressBar:{disableProgressBar:true},
+                                        navigation: {
+                                                wheelCallDelay:1000,
+                                                onHoverStop:false,
+                                                arrows: {
+                                                        enable:true,
+                                                        style:"hesperiden",
+                                                        left: {
+                                                                h_offset:0
+                                                        },
+                                                        right: {
+                                                                h_offset:30
+                                                        }
+                                                }
+                                        },
+                                        viewPort: {
+                                                global:true,
+                                                globalDist:"-200px",
+                                                enable:false
+                                        },
+                                        fallbacks: {
+                                                allowHTML5AutoPlayOnAndroid:true
+                                        },
+                        });
+
+                }} // End of RevInitScript
+
+                if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+  </script>
+  <script id="rs-initialisation-scripts">
+   var  tpj = jQuery;
+
+                var     revapi8;
+
+                if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+                if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+                RS_MODULES.modules["revslider81"] = {once: RS_MODULES.modules["revslider81"]!==undefined ? RS_MODULES.modules["revslider81"].once : undefined, init:function() {   
+                        window.revapi8 = window.revapi8===undefined || window.revapi8===null || window.revapi8.length===0  ? document.getElementById("rev_slider_8_1") : window.revapi8;
+                        if(window.revapi8 === null || window.revapi8 === undefined || window.revapi8.length==0) { window.revapi8initTry = window.revapi8initTry ===undefined ? 0 : 
+window.revapi8initTry+1; if (window.revapi8initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider81"].init()}); return;}
+                        window.revapi8 = jQuery(window.revapi8);
+                        if(window.revapi8.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_8_1"); return;}
+                        revapi8.revolutionInit({
+                                        revapi:"revapi8",
+                                        DPR:"dpr",
+                                        sliderLayout:"fullwidth",
+                                        visibilityLevels:"1240,1240,1240,480",
+                                        gridwidth:"1240,1240,1240,480",
+                                        gridheight:"800,800,800,400",
+                                        lazyType:"smart",
+                                        forceOverflow:true,
+                                        maxHeight:"0px",
+                                        perspective:600,
+                                        perspectiveType:"global",
+                                        editorheight:"800,768,960,400",
+                                        responsiveLevels:"1240,1240,1240,480",
+                                        progressBar:{disableProgressBar:true},
+                                        navigation: {
+                                                wheelCallDelay:1000,
+                                                onHoverStop:false,
+                                                arrows: {
+                                                        enable:true,
+                                                        style:"hesperiden",
+                                                        left: {
+                                                                h_offset:0
+                                                        },
+                                                        right: {
+                                                                h_offset:30
+                                                        }
+                                                }
+                                        },
+                                        viewPort: {
+                                                global:true,
+                                                globalDist:"-200px",
+                                                enable:false
+                                        },
+                                        fallbacks: {
+                                                allowHTML5AutoPlayOnAndroid:true
+                                        },
+                        });
+
+                }} // End of RevInitScript
+
+                if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+  </script>
+  <!-- Messenger Plugin de chat Code -->
+  <div id="fb-root">
+  </div>
+  <!-- Your Plugin de chat code -->
+  <div class="fb-customerchat" id="fb-customer-chat">
+  </div>
+  <script>
+   var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "167644426594672");
+      chatbox.setAttribute("attribution", "biz_inbox");
+  </script>
+  <!-- Your SDK code -->
+  <script>
+   window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v17.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+  </script>
+ </body>
+</html>
